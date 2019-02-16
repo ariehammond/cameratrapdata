@@ -1,1 +1,1 @@
-Camera Trap Machine Learning
+Camera Trap Image Machine Learning
